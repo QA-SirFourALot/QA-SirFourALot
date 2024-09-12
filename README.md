@@ -79,9 +79,8 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com//main/certificate_auto.png)
-[<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат Kvadra»">](https://raw.githubusercontent.com//main/certificate2.png)
-
+[<img src="/klim-kvadra_spb.png" width="280px" hspace="10px" alt="Сертификат Kvadra">](https://raw.githubusercontent.com/QA-SirFourALot/QA-SirFourALot/main/klim-kvadra_spb.png)
+[<img src="/klim_istomin_certificate_139_hours_ru.jpg" width="280px" hspace="10px" alt="Сертификат QA Studio">](https://raw.githubusercontent.com/QA-SirFourALot/QA-SirFourALot/main/klim_istomin_certificate_139_hours_ru.jpg)
 
 <br>
 
@@ -93,7 +92,7 @@
 <br>
 
 ## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)]()
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:istomin.klim@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)]([@](https://t.me/SirFouralot))
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
