@@ -79,7 +79,6 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/klim_istomin_certificate_139_hours_ru.jpg" width="280px" hspace="10px" alt="Сертификат QA Studio">](https://raw.githubusercontent.com/QA-SirFourALot/QA-SirFourALot/main/klim_istomin_certificate_139_hours_ru.jpg)
 [<img src="/klim-kvadra_spb.png" width="280px" hspace="10px" alt="Сертификат Kvadra">](https://raw.githubusercontent.com/QA-SirFourALot/QA-SirFourALot/main/klim-kvadra_spb.png)
 <br>
 
