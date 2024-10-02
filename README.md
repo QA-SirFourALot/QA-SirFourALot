@@ -78,16 +78,6 @@
 
 <br>
 
-## 🪴 Практика и стажировка
-[<img src="/klim-kvadra_spb.png" width="280px" hspace="10px" alt="Сертификат Kvadra">](https://raw.githubusercontent.com/QA-SirFourALot/QA-SirFourALot/main/klim-kvadra_spb.png)
-<br>
-
-## 🎒 Образование
-[<img src="/diploma_en.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com//main/diploma_en.png)
-[<img src="/recommendation_qa.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com//main/recommendation_qa.png)
-
-<br>
-<br>
 
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:istomin.klim@gmail.com)
